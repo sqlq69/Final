@@ -25,6 +25,7 @@
 2. Блок-схема алгоритма:
  > ![Block-diagram](diag.png)
 3. Вы читаете данный фаил `README.md`
+4. Программа
 
 Код программы:
 ```cs
@@ -100,6 +101,10 @@ void PrintArray(string[] array)
     Console.Write("] ");
 }
 ```
+Результат вывода в терминал:
+
+> ![image answer in terminal](Screenshot.jpg)
+
 5. Скриншот коммитов для подтверждения.
 
->![Screenshot of commits](Screenshot.jpg)
+>![Screenshot of commits](Screenshot_1.jpg)

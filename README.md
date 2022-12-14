@@ -25,9 +25,15 @@
 1. Вы находитесь в созданном репозитории `Final_test_work_1`.
 2. Блок-схема алгоритма:
 3. Вы читаете данный фаил `README.md`
+<<<<<<< HEAD
 4. Программа находится в ветке [`main`](/Final/Program.cs "Открыть решение")
 
 Код программы:git
+=======
+4. Программа находится в ветке [`master`](/Final/Program.cs "Открыть решение")
+
+Код программы:
+>>>>>>> 8ac74079d206f9464ced0e87c7fa4b6e0de08188
 ```cs
 Commands();
 string[] array = new string[] {};
@@ -109,3 +115,7 @@ void PrintArray(string[] array)
 5. Скриншот коммитов для подтверждения.
 
 >![Screenshot of commits](Screenshot.jpg)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8ac74079d206f9464ced0e87c7fa4b6e0de08188

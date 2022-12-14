@@ -23,7 +23,11 @@
 ## **Решение**
 1. Вы находитесь в созданном репозитории `Final_1`.
 2. Блок-схема алгоритма:
+ > ![Block-diagram](diag.png)
 3. Вы читаете данный фаил `README.md`
+
+Код программы:
+```cs
 Commands();
 string[] array = new string[] {};
 
@@ -95,3 +99,7 @@ void PrintArray(string[] array)
     }
     Console.Write("] ");
 }
+```
+5. Скриншот коммитов для подтверждения.
+
+>![Screenshot of commits](Screenshot.jpg)

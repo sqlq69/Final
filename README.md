@@ -108,5 +108,5 @@ void PrintArray(string[] array)
 
 5. Скриншот коммитов для подтверждения.
 
->![Screenshot of commits](task_1.png)
+>![Screenshot of commits](Screenshot.jpg)
 
